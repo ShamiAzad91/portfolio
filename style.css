@@ -1,0 +1,38 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background: rgba(255, 255, 255, 0.9); /* Light background */
+    color: #333; /* Dark text for contrast */
+    padding: 60px 30px; /* More padding for spacious layout */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    text-align: center; /* Centered text */
+}
+
+.jumbotron h1 {
+    font-weight: bold; /* Bold heading */
+    color: #007bff; /* Highlight color */
+}
+
+.jumbotron p {
+    font-size: 1.2rem; /* Larger text for readability */
+    margin-bottom: 20px;
+}
+
+.jumbotron .btn {
+    padding: 10px 20px; /* Larger button padding */
+    font-size: 1.1rem; /* Bigger button text */
+    border-radius: 5px; /* Rounded buttons */
+}
+
+.progress-bar {
+    background-color: #007bff;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+}
